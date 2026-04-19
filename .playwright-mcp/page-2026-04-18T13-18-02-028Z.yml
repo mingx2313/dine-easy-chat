@@ -1,0 +1,336 @@
+- generic [ref=e2]:
+  - banner [ref=e3]:
+    - generic [ref=e4]:
+      - link "龍 Dragon Palace" [ref=e5] [cursor=pointer]:
+        - /url: /
+      - navigation [ref=e6]:
+        - link "Menu" [ref=e7] [cursor=pointer]:
+          - /url: /#menu
+        - link "About" [ref=e8] [cursor=pointer]:
+          - /url: /about
+        - link "Contact" [ref=e9] [cursor=pointer]:
+          - /url: /contact
+        - link "Reserve a Table" [ref=e10] [cursor=pointer]:
+          - /url: /#reserve
+  - generic [ref=e11]:
+    - img "Chinese restaurant dining" [ref=e12]
+    - generic [ref=e14]:
+      - paragraph [ref=e15]: Authentic Chinese Cuisine
+      - heading "Dragon Palace" [level=1] [ref=e16]
+      - paragraph [ref=e17]: 龍宮
+      - paragraph [ref=e18]: Traditional flavors perfected through generations. Dim sum, Peking duck, and wok-fired classics.
+      - generic [ref=e19]:
+        - link "Reserve a Table" [ref=e20] [cursor=pointer]:
+          - /url: "#reserve"
+        - link "View Menu ↓" [ref=e21] [cursor=pointer]:
+          - /url: "#menu"
+  - generic [ref=e24]:
+    - generic [ref=e25]:
+      - img "Peking Duck — Today's special" [ref=e26]
+      - generic [ref=e27]: Today's Special
+    - generic [ref=e28]:
+      - paragraph [ref=e29]: Chef's Recommendation
+      - heading "Peking Duck" [level=2] [ref=e30]
+      - paragraph [ref=e31]: 北京烤鸭
+      - paragraph [ref=e32]: Our signature whole Peking duck, roasted to perfection with crackling lacquered skin. Served tableside with hand-rolled pancakes, julienned scallions, cucumber, and house-made hoisin sauce.
+      - paragraph [ref=e33]: $58
+      - link "Reserve a Table" [ref=e34] [cursor=pointer]:
+        - /url: "#reserve"
+  - generic [ref=e36]:
+    - generic [ref=e37]:
+      - paragraph [ref=e38]: Our Selection
+      - heading "The Menu" [level=2] [ref=e39]
+      - paragraph [ref=e40]: 菜单
+    - generic [ref=e43]:
+      - button "Dim Sum 点心" [ref=e44]
+      - button "Starters 前菜" [ref=e45]
+      - button "Mains 主菜" [ref=e46]
+      - button "Noodles & Rice 面饭" [ref=e47]
+      - button "Desserts 甜品" [ref=e48]
+    - generic [ref=e49]:
+      - generic [ref=e50]:
+        - generic [ref=e51]:
+          - heading "Dim Sum" [level=3] [ref=e52]
+          - generic [ref=e53]: 点心
+        - generic [ref=e54]:
+          - generic [ref=e55]:
+            - img "Har Gow" [ref=e57]
+            - generic [ref=e58]:
+              - generic [ref=e59]:
+                - generic [ref=e60]:
+                  - heading "Har Gow" [level=4] [ref=e61]
+                  - text: 虾饺
+                - generic [ref=e62]: $8
+              - paragraph [ref=e63]: Crystal shrimp dumplings, hand-pleated
+          - generic [ref=e64]:
+            - img "Siu Mai" [ref=e66]
+            - generic [ref=e67]:
+              - generic [ref=e68]:
+                - generic [ref=e69]:
+                  - heading "Siu Mai" [level=4] [ref=e70]
+                  - text: 烧卖
+                - generic [ref=e71]: $7
+              - paragraph [ref=e72]: Pork & shrimp dumplings, tobiko topping
+          - generic [ref=e73]:
+            - img "Xiao Long Bao" [ref=e75]
+            - generic [ref=e76]:
+              - generic [ref=e77]:
+                - generic [ref=e78]:
+                  - heading "Xiao Long Bao" [level=4] [ref=e79]
+                  - text: 小笼包
+                - generic [ref=e80]: $10
+              - paragraph [ref=e81]: Soup dumplings with rich pork broth
+          - generic [ref=e82]:
+            - img "Cheung Fun" [ref=e84]
+            - generic [ref=e85]:
+              - generic [ref=e86]:
+                - generic [ref=e87]:
+                  - heading "Cheung Fun" [level=4] [ref=e88]
+                  - text: 肠粉
+                - generic [ref=e89]: $9
+              - paragraph [ref=e90]: Silky rice noodle rolls, shrimp or char siu
+          - generic [ref=e91]:
+            - img "Turnip Cake" [ref=e93]
+            - generic [ref=e94]:
+              - generic [ref=e95]:
+                - generic [ref=e96]:
+                  - heading "Turnip Cake" [level=4] [ref=e97]
+                  - text: 萝卜糕
+                - generic [ref=e98]: $7
+              - paragraph [ref=e99]: Pan-fried radish cake with dried shrimp
+      - generic [ref=e100]:
+        - generic [ref=e101]:
+          - heading "Starters" [level=3] [ref=e102]
+          - generic [ref=e103]: 前菜
+        - generic [ref=e104]:
+          - generic [ref=e105]:
+            - img "Hot & Sour Soup" [ref=e107]
+            - generic [ref=e108]:
+              - generic [ref=e109]:
+                - generic [ref=e110]:
+                  - heading "Hot & Sour Soup" [level=4] [ref=e111]
+                  - text: 酸辣汤
+                - generic [ref=e112]: $8
+              - paragraph [ref=e113]: Classic Sichuan soup with tofu, bamboo shoots
+          - generic [ref=e114]:
+            - img "Spring Rolls" [ref=e116]
+            - generic [ref=e117]:
+              - generic [ref=e118]:
+                - generic [ref=e119]:
+                  - heading "Spring Rolls" [level=4] [ref=e120]
+                  - text: 春卷
+                - generic [ref=e121]: $9
+              - paragraph [ref=e122]: Crispy rolls stuffed with vegetables & pork
+          - generic [ref=e123]:
+            - img "Wonton Soup" [ref=e125]
+            - generic [ref=e126]:
+              - generic [ref=e127]:
+                - generic [ref=e128]:
+                  - heading "Wonton Soup" [level=4] [ref=e129]
+                  - text: 馄饨汤
+                - generic [ref=e130]: $9
+              - paragraph [ref=e131]: Handmade pork wontons in clear broth
+          - generic [ref=e132]:
+            - img "Salt & Pepper Squid" [ref=e134]
+            - generic [ref=e135]:
+              - generic [ref=e136]:
+                - generic [ref=e137]:
+                  - heading "Salt & Pepper Squid" [level=4] [ref=e138]
+                  - text: 椒盐鱿鱼
+                - generic [ref=e139]: $14
+              - paragraph [ref=e140]: Lightly battered, wok-tossed with chilies
+      - generic [ref=e141]:
+        - generic [ref=e142]:
+          - heading "Mains" [level=3] [ref=e143]
+          - generic [ref=e144]: 主菜
+        - generic [ref=e145]:
+          - generic [ref=e146]:
+            - img "Peking Duck" [ref=e148]
+            - generic [ref=e149]:
+              - generic [ref=e150]:
+                - generic [ref=e151]:
+                  - heading "Peking Duck" [level=4] [ref=e152]
+                  - text: 北京烤鸭
+                - generic [ref=e153]: $58
+              - paragraph [ref=e154]: Whole roasted duck, pancakes, scallion, hoisin
+          - generic [ref=e155]:
+            - img "Kung Pao Chicken" [ref=e157]
+            - generic [ref=e158]:
+              - generic [ref=e159]:
+                - generic [ref=e160]:
+                  - heading "Kung Pao Chicken" [level=4] [ref=e161]
+                  - text: 宫保鸡丁
+                - generic [ref=e162]: $22
+              - paragraph [ref=e163]: Wok-fired chicken, peanuts, dried chilies
+          - generic [ref=e164]:
+            - img "Mapo Tofu" [ref=e166]
+            - generic [ref=e167]:
+              - generic [ref=e168]:
+                - generic [ref=e169]:
+                  - heading "Mapo Tofu" [level=4] [ref=e170]
+                  - text: 麻婆豆腐
+                - generic [ref=e171]: $18
+              - paragraph [ref=e172]: Silken tofu in spicy Sichuan chili bean sauce
+          - generic [ref=e173]:
+            - img "Char Siu Pork" [ref=e175]
+            - generic [ref=e176]:
+              - generic [ref=e177]:
+                - generic [ref=e178]:
+                  - heading "Char Siu Pork" [level=4] [ref=e179]
+                  - text: 叉烧
+                - generic [ref=e180]: $24
+              - paragraph [ref=e181]: Cantonese BBQ pork, honey glaze
+          - generic [ref=e182]:
+            - img "Steamed Whole Fish" [ref=e184]
+            - generic [ref=e185]:
+              - generic [ref=e186]:
+                - generic [ref=e187]:
+                  - heading "Steamed Whole Fish" [level=4] [ref=e188]
+                  - text: 清蒸鱼
+                - generic [ref=e189]: $38
+              - paragraph [ref=e190]: Market fish, ginger, scallion, soy
+          - generic [ref=e191]:
+            - img "Beef Chow Fun" [ref=e193]
+            - generic [ref=e194]:
+              - generic [ref=e195]:
+                - generic [ref=e196]:
+                  - heading "Beef Chow Fun" [level=4] [ref=e197]
+                  - text: 干炒牛河
+                - generic [ref=e198]: $20
+              - paragraph [ref=e199]: Wok-charred flat rice noodles, tender beef
+          - generic [ref=e200]:
+            - img "Sweet & Sour Pork" [ref=e202]
+            - generic [ref=e203]:
+              - generic [ref=e204]:
+                - generic [ref=e205]:
+                  - heading "Sweet & Sour Pork" [level=4] [ref=e206]
+                  - text: 咕噜肉
+                - generic [ref=e207]: $22
+              - paragraph [ref=e208]: Crispy pork, bell peppers, pineapple
+      - generic [ref=e209]:
+        - generic [ref=e210]:
+          - heading "Noodles & Rice" [level=3] [ref=e211]
+          - generic [ref=e212]: 面饭
+        - generic [ref=e213]:
+          - generic [ref=e214]:
+            - img "Dan Dan Noodles" [ref=e216]
+            - generic [ref=e217]:
+              - generic [ref=e218]:
+                - generic [ref=e219]:
+                  - heading "Dan Dan Noodles" [level=4] [ref=e220]
+                  - text: 担担面
+                - generic [ref=e221]: $16
+              - paragraph [ref=e222]: Sichuan sesame-chili noodles, minced pork
+          - generic [ref=e223]:
+            - img "Yang Chow Fried Rice" [ref=e225]
+            - generic [ref=e226]:
+              - generic [ref=e227]:
+                - generic [ref=e228]:
+                  - heading "Yang Chow Fried Rice" [level=4] [ref=e229]
+                  - text: 扬州炒饭
+                - generic [ref=e230]: $16
+              - paragraph [ref=e231]: Shrimp, char siu, egg, scallion
+          - generic [ref=e232]:
+            - img "Wonton Noodle Soup" [ref=e234]
+            - generic [ref=e235]:
+              - generic [ref=e236]:
+                - generic [ref=e237]:
+                  - heading "Wonton Noodle Soup" [level=4] [ref=e238]
+                  - text: 云吞面
+                - generic [ref=e239]: $14
+              - paragraph [ref=e240]: Thin egg noodles, pork-shrimp wontons
+      - generic [ref=e241]:
+        - generic [ref=e242]:
+          - heading "Desserts" [level=3] [ref=e243]
+          - generic [ref=e244]: 甜品
+        - generic [ref=e245]:
+          - generic [ref=e246]:
+            - img "Mango Pudding" [ref=e248]
+            - generic [ref=e249]:
+              - generic [ref=e250]:
+                - generic [ref=e251]:
+                  - heading "Mango Pudding" [level=4] [ref=e252]
+                  - text: 芒果布丁
+                - generic [ref=e253]: $8
+              - paragraph [ref=e254]: Silky mango coconut pudding
+          - generic [ref=e255]:
+            - img "Egg Tarts" [ref=e257]
+            - generic [ref=e258]:
+              - generic [ref=e259]:
+                - generic [ref=e260]:
+                  - heading "Egg Tarts" [level=4] [ref=e261]
+                  - text: 蛋挞
+                - generic [ref=e262]: $7
+              - paragraph [ref=e263]: Flaky pastry, smooth custard filling
+          - generic [ref=e264]:
+            - img "Sesame Balls" [ref=e266]
+            - generic [ref=e267]:
+              - generic [ref=e268]:
+                - generic [ref=e269]:
+                  - heading "Sesame Balls" [level=4] [ref=e270]
+                  - text: 芝麻球
+                - generic [ref=e271]: $8
+              - paragraph [ref=e272]: Fried glutinous rice balls, red bean filling
+  - generic [ref=e274]:
+    - generic [ref=e275]:
+      - paragraph [ref=e276]: Book Your Experience
+      - heading "Reserve a Table" [level=2] [ref=e277]
+      - paragraph [ref=e278]: 预订餐桌
+      - paragraph [ref=e279]: Fill in your details and we'll confirm your reservation instantly via WhatsApp.
+    - generic [ref=e280]:
+      - generic [ref=e281]:
+        - generic [ref=e282]: Name
+        - textbox "Name" [ref=e283]:
+          - /placeholder: Your name
+      - generic [ref=e284]:
+        - generic [ref=e285]:
+          - generic [ref=e286]: Date
+          - textbox "Date" [ref=e287]
+        - generic [ref=e288]:
+          - generic [ref=e289]: Time
+          - textbox "Time" [ref=e290]
+      - generic [ref=e291]:
+        - generic [ref=e292]: Number of Guests
+        - combobox "Number of Guests" [ref=e293]:
+          - option "1 Guest"
+          - option "2 Guests" [selected]
+          - option "3 Guests"
+          - option "4 Guests"
+          - option "5 Guests"
+          - option "6 Guests"
+          - option "7 Guests"
+          - option "8 Guests"
+          - option "9 Guests"
+          - option "10 Guests"
+          - option "10+ Guests (Large Party)"
+      - generic [ref=e294]:
+        - generic [ref=e295]: Special Requests (optional)
+        - textbox "Special Requests (optional)" [ref=e296]:
+          - /placeholder: Allergies, birthday, high chair, etc.
+      - button "Confirm via WhatsApp" [ref=e297]:
+        - img [ref=e298]
+        - text: Confirm via WhatsApp
+  - contentinfo [ref=e300]:
+    - generic [ref=e301]:
+      - generic [ref=e302]:
+        - heading "龍 Dragon Palace" [level=3] [ref=e303]
+        - paragraph [ref=e304]: Authentic Chinese cuisine crafted with tradition and passion since 1998.
+      - generic [ref=e305]:
+        - generic [ref=e306]:
+          - img [ref=e307]
+          - paragraph [ref=e310]:
+            - text: 123 Chinatown Street
+            - text: Downtown, City 10001
+        - generic [ref=e311]:
+          - img [ref=e312]
+          - paragraph [ref=e315]:
+            - text: "Mon – Sun: 11:30 AM – 10:00 PM"
+            - text: "Dim Sum: 11:30 AM – 3:00 PM"
+      - generic [ref=e316]:
+        - paragraph [ref=e317]: Reserve a Table
+        - link "Book Now" [ref=e318] [cursor=pointer]:
+          - /url: /#reserve
+    - paragraph [ref=e320]: © 2026 Dragon Palace. All rights reserved.
+  - link "Chat on WhatsApp" [ref=e321] [cursor=pointer]:
+    - /url: https://wa.me/1234567890?text=Hi!%20I'd%20like%20to%20make%20a%20reservation.
+    - img [ref=e322]
